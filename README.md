@@ -6,11 +6,13 @@ industry-standard APIs you already know: **JMS, JDBC, and SQL**.
 
 Elastic MDS is built on the **StreamLens** integration framework (its architecture).
 
+Already run MetaFluent v5? **[What's New in Elastic MDS](../../wiki/Whats-New)** sets out what it adds beyond the v5 platform.
+
 ## Documentation
 
 The customer user guides and references live in the **[Wiki](../../wiki)**. New here? Start with **[How to Read This Guide](../../wiki/How-to-Read)** - short, role-specific reading paths so you only follow the one that fits you.
 
-- **Getting Started** - [How to Read This Guide](../../wiki/How-to-Read), [Quick Start](../../wiki/Quick-Start)
+- **Getting Started** - [How to Read This Guide](../../wiki/How-to-Read), [Quick Start](../../wiki/Quick-Start), [What's New](../../wiki/Whats-New)
 - **Concepts** - [Architecture: Basics](../../wiki/Architecture-Basics) / [Advanced](../../wiki/Architecture-Advanced), [Security & Entitlements](../../wiki/Security), [Glossary](../../wiki/Glossary)
 - **Configuration** - [Basics](../../wiki/Configuration-Basics) / [Advanced](../../wiki/Configuration-Advanced)
 - **Deployment** - [Basics](../../wiki/Deployment-Basics) / [Advanced](../../wiki/Deployment-Advanced) / [Without Docker](../../wiki/Deployment-Without-Docker)
