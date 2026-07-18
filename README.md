@@ -15,6 +15,6 @@ The customer user guides and references live in the **[Wiki](../../wiki)**. New 
 - **Getting Started** - [How to Read This Guide](../../wiki/How-to-Read), [Quick Start](../../wiki/Quick-Start), [What's New](../../wiki/Whats-New)
 - **Concepts** - [Architecture: Basics](../../wiki/Architecture-Basics) / [Advanced](../../wiki/Architecture-Advanced), [Security & Entitlements](../../wiki/Security), [Glossary](../../wiki/Glossary)
 - **Configuration** - [Basics](../../wiki/Configuration-Basics) / [Advanced](../../wiki/Configuration-Advanced)
-- **Deployment** - [Basics](../../wiki/Deployment-Basics) / [Advanced](../../wiki/Deployment-Advanced) / [Without Docker](../../wiki/Deployment-Without-Docker)
+- **Deployment** - [Basics](../../wiki/Deployment-Basics) / [Image Catalog](../../wiki/Image-Catalog) / [Advanced](../../wiki/Deployment-Advanced) / [Without Docker](../../wiki/Deployment-Without-Docker)
 - **Operations** - [Monitoring](../../wiki/Operations-Monitoring), [Logging](../../wiki/Operations-Logging), [Troubleshooting](../../wiki/Operations-Troubleshooting)
 - **Developing Applications** - [JMS](../../wiki/Develop-JMS), [JDBC](../../wiki/Develop-JDBC)
